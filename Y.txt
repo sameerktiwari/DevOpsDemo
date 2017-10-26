@@ -3,4 +3,10 @@ This is to be tracked...akash ....
 =======
 This Is B-Created By Vaishali 
 Srivastava-On 26-Oct-2017 At Talawade Location
+<<<<<<< HEAD:B.txt
 >>>>>>> ba240dc8b8e66559475735929ae80046817f7c03
+=======
+
+
+
+>>>>>>> bad9c76f8457ee4a991d336f9744abb1aac94204:Y.txt

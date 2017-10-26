@@ -1,3 +1,4 @@
 This is Dev Ops session.
 What is dev ops
+What we have changed should be reflected in Git bash
 Please enlighten us.

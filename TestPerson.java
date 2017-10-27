@@ -6,7 +6,7 @@ public class TestPerson
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!"+greetMe());
+        System.out.println( "Hello to Jenkins!"+greetMe());
     }
 	
 	public static String greetMe(){
